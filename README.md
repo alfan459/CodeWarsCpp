@@ -1,2 +1,1 @@
-# furry-lamp
-ini adalah repositori tentang segala hal yang berkaitan dengan belajar otodidak ku sendiri
+Ini adalah catatan saya dalam mengikuti CodeWars pada bab C++
